@@ -1,0 +1,7 @@
+.idea/
+target/
+
+sbt-dist/
+.bsp/
+
+.DS_Store
